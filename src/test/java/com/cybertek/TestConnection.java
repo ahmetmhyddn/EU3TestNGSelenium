@@ -8,6 +8,7 @@ public class TestConnection {
 
     public void test1(){
 
+        System.out.println("Testing Connection");
 
     }
 
